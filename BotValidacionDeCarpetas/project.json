@@ -1,6 +1,6 @@
 {
-  "name": "RevisionDeCarpetas",
-  "description": "Se revisa la existencia de las carpetas en la ruta de teams y si no estan creadas el bot las tendra que generar ",
+  "name": "BotValidacionDeCarpetas",
+  "description": "Valida la existencia de unas carpetas en un ruta determinada",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "e0463c7f-1be5-4d81-9aaa-c5834743bb44",
+      "uniqueId": "ee4b3ccf-8943-4ea8-a3a7-50d7c4faeffd",
       "input": [],
       "output": []
     }
